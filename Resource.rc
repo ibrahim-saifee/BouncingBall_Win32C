@@ -1,0 +1,5 @@
+100 ICON DISCARDABLE "BouncingBall.ico"
+//900 BITMAP "fire.bmp"
+500 BITMAP "desert.bmp"
+200 WAVE "hit.wav"
+201 WAVE "win.wav"
